@@ -15,3 +15,11 @@
 
 7. (a) After creating remote repo, set the local file to go to remote repo. code:[git remote add origin "link"]
    (b) check its connection [code:git remote -v] and push it to main .
+
+   ## to learn branching
+
+   1. Check branches using ..'git branch'.
+   2. Create a subbranch and switch to it... 'git checkout -b subbranch_name'
+   3. MODIFY YOUR MAIN BRANCH CODE LIKE WHAT I AM DOING NOW..
+   4. Commit changes.
+   5. Push to git.
